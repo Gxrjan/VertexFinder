@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VertexFinder": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Gxrja\\source\\repos\\VertexFinder\\VertexFinder\\Polytope.txt"
+    }
+  }
+}
